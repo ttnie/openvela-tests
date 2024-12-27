@@ -1,6 +1,6 @@
 # Developing a Self-testing Execution Framework
 
-
+\[ English | [简体中文](README_zh-cn.md) \]
 
 ## Introduction
 
